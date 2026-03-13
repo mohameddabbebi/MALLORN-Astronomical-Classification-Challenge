@@ -8,7 +8,7 @@ The objective of the competition was to classify astronomical objects using obse
 
 Score: 0.4784
 
-Rank: 433 / 894
+Rank: 433 / 893
 
 Top: 49% on the leaderboard
 
